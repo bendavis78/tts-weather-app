@@ -18,6 +18,7 @@ gem 'httparty'
 gem 'wunderground'
 gem 'figaro'
 gem 'materialize-sass'
+gem 'awesome_print'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
